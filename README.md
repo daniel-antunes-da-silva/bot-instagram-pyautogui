@@ -7,4 +7,4 @@ Ao entrar no instagram, ele pesquisa e entra em um perfil fornecido pelo usuári
 
 Obs: por ser uma automação feita com pyautogui, precisa de algumas coordenadas na tela e identificação de imagens, e, por isso, funciona apenas no ambiente em que foi feito para funcionar. Isso quer dizer que não vai funcionar para qualquer um que tiver o código, pois precisaria de modificações. Caso queira, pode apenas utilizar o código como base, mas usando suas próprias coordenadas, imagens para detecção, etc.
 
-Video de demonstração no linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7096871902459117570/?originTrackingId=RO9dbMQwSWe9LFmATuIV1g%3D%3D
+Video de demonstração no linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7096879305774788608/?originTrackingId=f%2BYCO60GTrqGzx3IaVfulg%3D%3D
