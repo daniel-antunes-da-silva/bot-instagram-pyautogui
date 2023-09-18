@@ -5,7 +5,7 @@ from random import choice
 lista_comentarios = ['Wooooow!!', 'Amazing! :)', 'Cool!', 'Great post <3']
 while True:
     usuario = 'pagina_legal19'
-    senha = 'senha' # essa não é a senha de verdade
+    senha = 'senha1234' # essa não é a senha de verdade
     webbrowser.open('https://www.instagram.com/')
     sleep(2)
     botao_entrar = pyautogui.locateCenterOnScreen('botao_entrar.png')
@@ -31,8 +31,8 @@ while True:
         pyautogui.typewrite(conta_a_pesquisar)
         sleep(1.5)
         pyautogui.press(['down', 'enter'])
-        sleep(2.5)
-        pyautogui.click(607,633, duration=1)
+        sleep(4)
+        pyautogui.click(607, 633, duration=1)
         sleep(2.5)
         botao_curtir = pyautogui.locateCenterOnScreen('botao_curtir.png')
         if botao_curtir is not None:
