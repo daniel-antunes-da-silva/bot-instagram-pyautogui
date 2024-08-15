@@ -8,4 +8,7 @@ Ao entrar no instagram, ele pesquisa e entra em um perfil fornecido pelo usuári
 Obs: por ser uma automação feita com pyautogui, precisa de algumas coordenadas na tela e identificação de imagens, e, por isso, funciona apenas no ambiente em que foi feito para funcionar. Isso quer dizer que não vai funcionar para qualquer um que tiver o código, pois precisaria de modificações. Caso queira, pode apenas utilizar o código como base, mas usando suas próprias coordenadas, imagens para detecção, etc.
 
 Video de demonstração:
-[pyautogui_instagram.mp4](pyautogui_instagram.mp4)
+
+
+https://github.com/daniel-antunes-da-silva/bot-instagram-pyautogui/assets/132831685/b072899d-bef3-4b1d-9aa6-4682092d16db
+
