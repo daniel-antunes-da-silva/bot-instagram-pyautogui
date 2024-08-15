@@ -9,6 +9,7 @@ while True:
     webbrowser.open('https://www.instagram.com/')
     sleep(2)
     botao_entrar = pyautogui.locateCenterOnScreen('botao_entrar.png')
+    print(botao_entrar)
     if botao_entrar is not None:
         # Dá um click mais ou menos no centro da tela, para habilitar
         pyautogui.click(663, 409)
@@ -24,6 +25,7 @@ while True:
         pyautogui.doubleClick(agora_nao, duration=0.5)
         sleep(3)
     pesquisar = pyautogui.locateCenterOnScreen('pesquisar.png')
+    print(pesquisar)
     if pesquisar is not None:
         pyautogui.click(pesquisar)
         sleep(0.5)
